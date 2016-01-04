@@ -1,0 +1,2 @@
+# hot-ruby
+Ruby News
